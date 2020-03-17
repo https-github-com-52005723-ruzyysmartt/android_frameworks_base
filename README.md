@@ -42,7 +42,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/cWelcome to GitHub Pages
+Having trouble with Pages? Check out our [documentation](https://help.github.com/ruzyysmartt/Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/https-github-com-52005723-ruzyysmartt/android_frameworks_base/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
